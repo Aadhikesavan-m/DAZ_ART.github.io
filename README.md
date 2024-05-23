@@ -1,2 +1,1 @@
-# DAZ_ART.github.io
-Zeckho Intern E-Commerce
+# Dez_art.github.io
